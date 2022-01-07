@@ -5,6 +5,9 @@
   "repository": "git@github.com:Kamil-96/express-app.git",
   "author": "Kamil Put <kamil.put@interia.pl>",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
   "dependencies": {
     "express": "4.17.1",
     "express-handlebars": "3.1.0",
